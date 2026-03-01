@@ -12,7 +12,7 @@ from telegram.ext import Application, CommandHandler, CallbackQueryHandler, Cont
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 
 # --- Configuration ---
-YOUR_BOT_TOKEN = "8581273737:AAHA0DaVoPe6OdVR588qUqhpL_ntsJTvz_I"
+YOUR_BOT_TOKEN = "8581273737:AAERI2iZwdqVkkj60xk3hvaQIpOXg0OY16o"
 ADMIN_CHAT_IDS = ["8410638169"]
 INITIAL_CHAT_IDS = ["-1003760844243"]
 
